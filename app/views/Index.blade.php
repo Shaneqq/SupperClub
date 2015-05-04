@@ -75,24 +75,18 @@
                                 <div class="item active">
 
                                     <h3>
-                                        Consectetur adipiscing elit felis dolor felis dolor vitae
+                                        Welcome to the Supper Club 
                                     </h3>
                                     <p>
-                                        Lorem ipsumdolor sitamet, consect adipiscing elit
-                                        Lorem ipsumdolor sitamet, consect adipiscing elit.
-                                        Lorem ipsumdolor sitamet, consect adipiscing elit
-                                        Lorem ipsumdolor sitamet, consect adipiscing elit.
+                                        Where the Party Begins!
                                     </p>
                                 </div>
                                 <div class="item">
                                     <h3>
-                                        Lorem ipsumdolor sitamet, consect adipiscing elit
+                                        Welcome to the Supper Club
                                     </h3>
                                     <p>
-                                        Lorem ipsumdolor sitamet, consect adipiscing elit
-                                        Lorem ipsumdolor sitamet, consect adipiscing elit.
-                                        Lorem ipsumdolor sitamet, consect adipiscing elit
-                                        Lorem ipsumdolor sitamet, consect adipiscing elit.
+                                        Where the Party Begins!
                                     </p>
                                 </div>
 
@@ -109,7 +103,7 @@
 
 
                         <p >
-                            This line is fixed so you can write anything
+                            Socialize with us.
 
                         </p>
                         <div class="social">
@@ -143,33 +137,29 @@
                     <div class="col-xs-12 col-sm-2 col-md-2 col-lg-3">
                         <div class="services-wrapper">
                             <i class="ion-document"></i>
-                            <h3>Consectetur tellus nec</h3>
-                            Morbi mollis lectus et ipsum sollicitudin varius.
-                            Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+                            <h3>Join with Us</h3>
+                            Join with us & let the fun begin
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-2 col-md-2 col-lg-3">
                         <div class="services-wrapper">
                             <i class="ion-document"></i>
-                            <h3>Consectetur tellus nec</h3>
-                            Morbi mollis lectus et ipsum sollicitudin varius.
-                            Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+                            <h3>Be a host</h3>
+                            Host your parties
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-2 col-md-2 col-lg-3">
                         <div class="services-wrapper">
                             <i class="ion-document"></i>
-                            <h3>Consectetur tellus nec</h3>
-                            Morbi mollis lectus et ipsum sollicitudin varius.
-                            Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+                            <h3>Or be a guest</h3>
+                            
                         </div>
                     </div>
                     <div class="col-xs-12 col-sm-2 col-md-2 col-lg-3">
                         <div class="services-wrapper">
                             <i class="ion-document"></i>
-                            <h3>Consectetur tellus nec</h3>
-                            Morbi mollis lectus et ipsum sollicitudin varius.
-                            Aliquam tempus ante placerat, consectetur tellus nec, porttitor nulla.
+                            <h3>Enjoy Great meals also make money</h3>
+                            
                         </div>
                     </div>
                     <div style="text-align: center"class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
@@ -259,11 +249,11 @@
             <div class="row text-center animate-in" data-anim-type="fade-in-up" >
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 pad-bottom">
                     <div class="caegories">
-                        <a href="#" data-filter="*" class="active btn btn-custom btn-custom-two btn-sm">All</a>
-                        <a href="#" data-filter=".html" class="btn btn-custom btn-custom-two btn-sm">HTML</a>
-                        <a href="#" data-filter=".css" class="btn btn-custom btn-custom-two btn-sm">CSS</a>
-                        <a href="#" data-filter=".code" class="btn btn-custom btn-custom-two btn-sm" >CODE</a>
-                        <a href="#" data-filter=".script" class="btn btn-custom btn-custom-two btn-sm" >SCRIPT</a>
+                        <a href="#" data-filter="*" class="active btn btn-custom btn-custom-two btn-sm">ALL</a>
+                        <a href="#" data-filter=".html" class="btn btn-custom btn-custom-two btn-sm">POPULAR</a>
+                        <a href="#" data-filter=".css" class="btn btn-custom btn-custom-two btn-sm">RECENT</a>
+                        <a href="#" data-filter=".code" class="btn btn-custom btn-custom-two btn-sm" >TODAY</a>
+                        <a href="#" data-filter=".script" class="btn btn-custom btn-custom-two btn-sm" >NEAREST</a>
                     </div>
                 </div>
             </div>
@@ -277,7 +267,7 @@
                             <img src="assets/img/portfolio/1.jpg" class="img-responsive img-rounded" alt="" />
                         </a>
 
-                        <h4>Morbi mollis lectus et ipsum</h4>
+                        <h4>Beach Party</h4>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html css">
@@ -288,7 +278,7 @@
                             <img src="assets/img/portfolio/2.jpg" class="img-responsive img-rounded" alt="" />
                         </a>
 
-                        <h4>Morbi mollis lectus et ipsum</h4>
+                        <h4>Pizza Party</h4>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 code script">
@@ -299,7 +289,7 @@
                             <img src="assets/img/portfolio/3.jpg" class="img-responsive img-rounded" alt="" />
                         </a>
 
-                        <h4>Morbi mollis lectus et ipsum</h4>
+                        <h4>Cocktail Party</h4>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html script">
@@ -310,7 +300,7 @@
                             <img src="assets/img/portfolio/4.jpg" class="img-responsive img-rounded" alt="" />
                         </a>
 
-                        <h4>Morbi mollis lectus et ipsum</h4>
+                        <h4>Club Party</h4>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html code">
@@ -321,7 +311,7 @@
                             <img src="assets/img/portfolio/5.jpg" class="img-responsive img-rounded" alt="" />
                         </a>
 
-                        <h4>Morbi mollis lectus et ipsum</h4>
+                        <h4>Dj Party</h4>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 script">
@@ -332,7 +322,7 @@
                             <img src="assets/img/portfolio/6.jpg" class="img-responsive img-rounded" alt="" />
                         </a>
 
-                        <h4>Morbi mollis lectus et ipsum</h4>
+                        <h4>Haloween Party</h4>
                     </div>
                 </div>
             </div>
@@ -360,8 +350,7 @@
                     <div class="contact-wrapper">
                         <h3>We Are Social</h3>
                         <p>
-                            Aliquam tempus ante placerat,
-                            consectetur tellus nec, porttitor nulla.
+                            Join our social pages.
                         </p>
                         <div class="social-below">
                             <a href="#" class="btn button-custom btn-custom-two" > Facebook</a>
@@ -376,7 +365,7 @@
                         <h3>Quick Contact</h3>
                         <h4><strong>Email : </strong> info@yuordomain.com </h4>
                         <h4><strong>Call : </strong> +09-88-99-77-55 </h4>
-                        <h4><strong>Skype : </strong> Yujhaeu78 </h4>
+                        <h4><strong>Skype : </strong> hemanthi </h4>
                     </div>
 
                 </div>
@@ -386,7 +375,7 @@
                         <h4>230/45 , New way Lane , </h4>
                         <h4>United States</h4>
                         <div class="footer-div" >
-                            &copy; 2015 YourDomain | <a href="http://www.designbootstrap.com/" target="_blank" >by DesignBootstrp</a>
+                            &copy; 2015 Chandi Soft  <a href="http://www.designbootstrap.com/" target="_blank" ></a>
                         </div>
                     </div>
 

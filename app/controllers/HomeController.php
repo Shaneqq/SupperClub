@@ -7,5 +7,8 @@ class HomeController extends BaseController {
 	{
 		return View::make('Index');
 	}
+        public function signUp(){
+            return View::make('Account.Signup');
+        }
 
 }
