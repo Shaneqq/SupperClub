@@ -55,7 +55,7 @@
                         <li><a href="#home">HOME</a></li>
                         <li><a href="#">How it works</a></li>
                         <li><a href="#pricing">About Us</a></li>
-                        <li><a href="#work">Join The Club</a></li>
+                        <li><a href="#work">Join he Club</a></li>
                         <li><a href="#team">Login</a></li>
 
                     </ul>
